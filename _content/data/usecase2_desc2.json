@@ -1,0 +1,9 @@
+{
+  "path": "/usecase2_desc2",
+  "type": "Text",
+  "data": {
+    "text": "Verify users against real life identity documents, validate pictures and faces with our spoof detection endpoint"
+  },
+  "createdAt": "2017-10-03T22:53:42.415Z",
+  "updatedAt": "2017-10-03T22:53:42.415Z"
+}

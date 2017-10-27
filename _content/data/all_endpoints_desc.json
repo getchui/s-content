@@ -1,0 +1,9 @@
+{
+  "path": "/all_endpoints_desc",
+  "type": "Text",
+  "data": {
+    "text": "**Endpoints include face detection, face matching, face identification, spoof detection, raw landmark detection"
+  },
+  "createdAt": "2017-10-06T16:31:01.770Z",
+  "updatedAt": "2017-10-13T23:08:17.351Z"
+}

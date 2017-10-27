@@ -1,0 +1,9 @@
+{
+  "path": "/products_FI_desc",
+  "type": "Text",
+  "data": {
+    "text": "Match a particular face to a stored<br> profile. Recognize a single face from a<br> group of many."
+  },
+  "createdAt": "2017-10-03T22:53:42.905Z",
+  "updatedAt": "2017-10-03T22:53:42.905Z"
+}
