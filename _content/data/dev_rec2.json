@@ -1,9 +1,9 @@
 {
-  "path": "/dev_rec2",
   "type": "Text",
+  "path": "/dev_rec2",
   "data": {
-    "text": "Reuseable snippets of code for your Application!"
+    "text": "Reusable snippets of code for your application!"
   },
   "createdAt": "2017-10-11T20:23:10.902Z",
-  "updatedAt": "2017-10-11T20:23:10.902Z"
+  "updatedAt": "2017-10-28T00:02:38.330Z"
 }
