@@ -2,8 +2,8 @@
   "type": "Text",
   "path": "/foot_copyright",
   "data": {
-    "text": "© 214 Technologies Inc San Francisco, CA"
+    "text": "<p>© 214 Technologies Inc San Francisco, CA</p>"
   },
   "createdAt": "2017-10-03T22:53:42.310Z",
-  "updatedAt": "2017-11-05T18:01:38.909Z"
+  "updatedAt": "2017-11-06T20:38:19.890Z"
 }
