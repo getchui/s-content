@@ -1,9 +1,9 @@
 {
-  "path": "/about_desc5",
   "type": "Text",
+  "path": "/about_desc5",
   "data": {
-    "text": "We are our best when we build with the community. Please join our slack group to share ideas and work together on building the next interface for facial recognition."
+    "text": "We are our best when we build with the community. Please join our slack group to share ideas and work together on building the next interface for facial recognition.&nbsp;"
   },
   "createdAt": "2017-10-07T16:41:16.246Z",
-  "updatedAt": "2017-10-07T16:41:16.246Z"
+  "updatedAt": "2017-11-16T23:58:21.493Z"
 }
