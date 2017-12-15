@@ -1,9 +1,9 @@
 {
-  "path": "/products_LD_desc",
   "type": "Text",
+  "path": "/products_LD_desc",
   "data": {
-    "text": "Create custom solutions based on<br> the raw measurements of a human<br> face."
+    "text": "Use our cloud API, request<br>a dedicated instance or run on premise."
   },
   "createdAt": "2017-10-03T22:53:43.012Z",
-  "updatedAt": "2017-10-03T22:53:43.012Z"
+  "updatedAt": "2017-12-15T19:21:50.932Z"
 }
