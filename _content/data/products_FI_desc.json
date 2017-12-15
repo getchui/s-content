@@ -1,9 +1,9 @@
 {
-  "path": "/products_FI_desc",
   "type": "Text",
+  "path": "/products_FI_desc",
   "data": {
-    "text": "Match a particular face to a stored<br> profile. Recognize a single face from a<br> group of many."
+    "text": "Identify, match, and get full raw landmarks<br> for any face."
   },
   "createdAt": "2017-10-03T22:53:42.905Z",
-  "updatedAt": "2017-10-03T22:53:42.905Z"
+  "updatedAt": "2017-12-15T19:22:20.140Z"
 }
