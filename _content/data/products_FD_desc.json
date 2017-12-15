@@ -1,9 +1,9 @@
 {
-  "path": "/products_FD_desc",
   "type": "Text",
+  "path": "/products_FD_desc",
   "data": {
-    "text": "Detect one or multiple faces in a<br> picture or video feed."
+    "text": "Verify users against ID documents, social media identities,<br> and sanctions lists using our api and no code solutions."
   },
   "createdAt": "2017-10-03T22:53:43.758Z",
-  "updatedAt": "2017-10-03T22:53:43.758Z"
+  "updatedAt": "2017-12-15T19:20:26.574Z"
 }
