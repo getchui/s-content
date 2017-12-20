@@ -1,9 +1,9 @@
 {
-  "path": "/privacy2",
   "type": "Text",
+  "path": "/privacy2",
   "data": {
-    "text": "with our on-premise solutions"
+    "text": "Authentication with Trueface.ai + Auth0"
   },
   "createdAt": "2017-10-03T01:17:38.552Z",
-  "updatedAt": "2017-10-03T02:29:55.071Z"
+  "updatedAt": "2017-12-20T00:38:43.614Z"
 }
