@@ -1,9 +1,9 @@
 {
-  "path": "/authenticate1",
   "type": "Text",
+  "path": "/authenticate1",
   "data": {
-    "text": "Authenticate your employees with our"
+    "text": "Use Face Recognition with dozens"
   },
   "createdAt": "2017-10-03T01:17:38.561Z",
-  "updatedAt": "2017-10-03T02:29:54.872Z"
+  "updatedAt": "2017-12-20T00:36:33.372Z"
 }
